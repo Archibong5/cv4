@@ -1,0 +1,192 @@
+body{
+  background-color: #EAF6F6;
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+  color: #411530;
+}
+
+h1{
+  font-family: 'Lusitana', serif;
+  font-weight: 700;
+  font-size: 3rem;
+  color: #411530;
+}
+h2{
+  font-family: 'DM Serif Text', serif;
+}
+h3{
+  font-family: 'Eczar', serif;
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+h4{
+  font-family: 'Lusitana', serif;
+  font-weight: 400;
+}
+h5{
+  font-family: 'Eczar', serif;
+  font-weight: 300;
+  font-size: 2rem;
+}
+a{
+  font-family: 'Inika', serif;
+  color: white;
+}
+a:hover{
+  color: #EF5B0C;
+}
+
+
+/* NAVBAR */
+.navbar{
+  background-color:  #1C3879;
+}
+/* INTRODUCTION */
+.top-p{
+  font-size: 2rem;
+  width: 70%;
+  line-height: 2;
+  margin: 0 auto;
+
+}
+.p2{
+  font-size: 1.5rem;
+  width: 60%;
+  line-height: 2;
+  margin: 0 auto;
+}
+.fat{
+  font-size: 2rem;
+  color: #1C3879;
+}
+.work{
+  text-align: left;
+}
+.top-container{
+  text-align: center;
+  margin-top: 60px;
+}
+
+/* SKILLS AND RATE */
+#core-skills{
+  color: #EAF6F6;
+}
+#skills-rate{
+  text-align: center;
+}
+.p3{
+  font-size: 1.4rem;
+}
+.skill-container{
+  text-align: center;
+}
+.web{
+  height: 50%;
+  width: 50%;
+}
+.social{
+  height: 50%;
+  width: 50%;
+}
+.e-pic{
+  height: 50%;
+  width: 50%;
+}
+.webdev{
+ background-color: #1C3879;
+
+
+}
+.ecomm{
+  background-color:#1C3879;
+
+}
+.digital{
+  background-color: #1C3879;
+
+}
+/* FEATURED WORK */
+.fw{
+  font-size: 3rem;
+}
+.p4{
+  font-size: 1.2rem;
+}
+
+
+.pet{
+  height: 30rem;
+  width: 50rem;
+  margin-left: 130px;
+}
+.petplate{
+  height: 250px;
+  width: 400px;
+}
+.lsu{
+  height: 250px;
+  width: 400px
+}
+#featured-work{
+  padding-bottom: 50px;
+  text-align: center;
+}
+.lsu2{
+  height: 30rem;
+  width: 50rem;
+  margin-left: 130px;
+}
+.css{
+  height: 250px;
+  width: 400px;
+}
+.css2{
+  height: 30rem;
+  width: 50rem;
+  margin-left: 130px;
+}
+
+/* GET IN TOUCH */
+.btn{
+  font-family: 'Inika', serif;
+  margin-bottom: 50px;
+}
+#get-in-touch{
+  text-align: center;
+  margin: 40px auto;
+
+}
+.love{
+  font-size: 2rem;
+  margin: 20px auto;
+}
+.get-btn{
+  background-color: #1C3879;
+
+}
+.get-btn:hover{
+  background-color: #EF5B0C;
+}
+
+/* FOOTER */
+.profile{
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+  border: solid 10px white;
+
+
+}
+.profile:hover{
+  border-color: #EF5B0C;
+}
+#footer{
+  background-color: #1C3879;
+  color: white;
+  border-top: solid 10px;
+  border-color: #3B9AE1;
+}
+.foot{
+  color: white;
+}
